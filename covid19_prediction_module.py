@@ -64,6 +64,6 @@ class Figures:
     plt.plot(y_test,color='c')
     plt.plot(predicted_new_cases,color='m')
     plt.xlabel('Day')
-    plt.ylabel('Covid19 New Cases')
+    plt.ylabel('Number of Covid19 Cases')
     plt.legend(['Actual','Predicted'])
     plt.show()
