@@ -12,7 +12,7 @@ The scientists believed that the absence of AI assisted automated tracking and p
 the scientist proposed the usage of deep learning model to predict the daily COVID cases to determine if travel bans should be imposed or rescinded.
 
 ## How to Install and Run the Project
-This project can be run via [Google Colab](https://colab.research.google.com/?utm_source=scs-index) by creating a new notebook or just download the [Covid19_Prediction_main](https://colab.research.google.com/drive/1XPPtAsuLGjbaeArEIzGFsI5i7Qlqmpjb?usp=sharing) to test it out!
+This project can be run via [Google Colab](https://colab.research.google.com/?utm_source=scs-index) by creating a new notebook or just download the [Covid19_Prediction_main](https://github.com/Ndinie/Covid19_Prediction/blob/main/covid19_prediction_main.py) to test it out!
 
 Google Colab also provide us with free GPU where all you neeed to do is change the runtime type to 'GPU'.
 Plus Colab does not need any additional modules installation.
