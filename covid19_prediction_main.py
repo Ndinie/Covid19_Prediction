@@ -91,13 +91,6 @@ y_train = np.array(y_train)
 
 dataset_concat = pd.concat((df_train['cases_new'],df_test['cases_new']))
 
-"""Method 1"""
-
-# length_days_1 = len(dataset_concat) - len(df_test) - win_size # 780 - 100 - 30
-# tot_input_1 = dataset_concat[length_days_1:]
-
-"""Method 2"""
-
 length_days_2 = win_size + len(df_test) # 30 + 100
 tot_input_2 = dataset_concat[-length_days_2:]
 
