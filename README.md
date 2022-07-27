@@ -18,7 +18,7 @@ Google Colab also provide us with free GPU where all you neeed to do is change t
 Plus Colab does not need any additional modules installation.
 
 # How to use the project
-You need to ensure that when you load the dataset, it links directly to the correct path which is here [cases_malaysia.csv](https://github.com/MoH-Malaysia/covid19-public/blob/main/epidemic/cases_malaysia.csv)
+You need to ensure that you have **Covid19_Prediction_main.py** downloaded.
 
 Don't forget to upload [covid19_prediction_module.py](https://github.com/Ndinie/Covid19_Prediction/blob/main/covid19_prediction_module.py) inside Covid19_Prediction_main.py so that you could run it smoothly.
 
