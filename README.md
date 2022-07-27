@@ -29,6 +29,10 @@ Below is the Architecture of the model that you can acquired under model develop
 
 ![model](https://github.com/Ndinie/Covid19_Prediction/blob/main/static/model.png)
 
+The result from this model that we can achieved is as shown below:
+
+![actual-vs-predicted-graph](https://github.com/Ndinie/Covid19_Prediction/blob/main/static/actual-vs-predicted-graph.png)
+
 ## Credits
 Greatest appreciation to [MoH-Malaysia](https://github.com/MoH-Malaysia/covid19-public) for providing this dataset.
 
